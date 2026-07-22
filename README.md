@@ -1,4 +1,5 @@
 # shashwat-demo
 this is my fist git repository.
 <br>
-author - shashwat singh thakur  
+author - shashwat singh thakur 
+git github 
